@@ -1,18 +1,17 @@
+### Refactoring branch
+
 ### Date created
-Include the date you created this project and README file.
+2020/5/26
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Use Python to understand US bikeshare data.
 
 ### Files used
-Include the files used
+3 csv files contain the data. Codes in bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://classroom.udacity.com/nanodegrees/nd104/parts/53470233-d93c-4a31-a59f-11388272fe6b
 
-Change 1
-Change 2
-Change 3
