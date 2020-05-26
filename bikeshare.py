@@ -155,12 +155,13 @@ def display_raw_data(df):
 
 
     data = 0
-    answer = 'yes'
+    answer = input('Would you like to see 5 lines of raw data? Enter yes or no: ')
     while answer.lower() == 'yes':
+
+
+        print(df[data : data+5])
+        data += 5
         answer = input('Would you like to see 5 lines of raw data? Enter yes or no: ')
-        if answer.lower() == 'yes':
-            print(df[data : data+5])
-            data += 5
 
  
 
